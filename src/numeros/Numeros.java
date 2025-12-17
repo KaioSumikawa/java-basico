@@ -12,7 +12,7 @@ public class Numeros {
         n = teclado.nextInt();
         s += n;
         System.out.println("Quer continuar? [S/N] ");
-        resp = teclado.nextInt();
+        resp = teclado.next();
     } while (resp.equals("S"));
         System.out.println("A soma de todos os valores é " + s);
     }
