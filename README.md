@@ -1,21 +1,21 @@
-# Curso de Java Básico - Curso em Vídeo
+# Java Basic Course - Curso em Video
 
-Repositório destinado ao armazenamento de exercícios e anotações do curso de Java Básico ministrado por Gustavo Guanabara no Curso em Vídeo.
+This repository contains exercises and notes from the Java Basic course taught by Professor Gustavo Guanabara at Curso em Video.
 
-Link do curso: https://www.cursoemvideo.com/curso/java-basico/
+Course Link: https://www.cursoemvideo.com/curso/java-basico/
 
-## Objetivos
-O foco do curso é o aprendizado da sintaxe Java, lógica de programação e introdução ao desenvolvimento de interfaces gráficas.
+## Objectives
+The course focuses on learning Java syntax, programming logic, and an introduction to GUI (Graphical User Interface) development.
 
-## Conteúdo do Repositório
-O conteúdo está organizado por módulos seguindo a cronologia das aulas:
-* Módulo 1: Instalação do JDK e configuração do ambiente.
-* Módulo 2: Tipos primitivos e entrada de dados.
-* Módulo 3: Operadores e classe Math.
-* Módulo 4: Interfaces com Swing e JavaFX.
-* Módulo 5: Estruturas condicionais e de repetição.
-* Módulo 6: Arrays e métodos.
+## Repository Structure
+The content is organized by modules following the course timeline:
+* Module 1: JDK installation and environment setup.
+* Module 2: Primitive types and data input.
+* Module 3: Operators and Math class.
+* Module 4: Interfaces with Swing and JavaFX.
+* Module 5: Conditional structures and loops.
+* Module 6: Arrays and methods.
 
-## Tecnologias
-* Java JDK (v8 ou superior)
-* IDEs: NetBeans ou IntelliJ
+## Technologies
+* Java JDK (v8 or higher)
+* IDEs: NetBeans or IntelliJ
