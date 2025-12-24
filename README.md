@@ -1,0 +1,1 @@
+Este repositório contém todos os exercícios, anotações e desafios práticos desenvolvidos por mim durante o curso de Java Básico, ministrado pelo professor Gustavo Guanabara através da plataforma Curso em Vídeo.
